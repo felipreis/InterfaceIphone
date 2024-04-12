@@ -1,18 +1,10 @@
-## Getting Started
+# INTERFACES
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## ESTUDO DE INTERFACES COM BASE NAS FUNCIONALIDADE DO IPHONE
 
-## Folder Structure
+### Nessa atividade elaborei em código simples, para entendimento do funcionamento das interfaces, as funcionalidades do iphone apresentado em 2007. Consistia em criar interfaces de reprodução musical, navegador de internet e aparelho de ligação e implementar todas no Iphone.
 
-The workspace contains two folders by default, where:
+## Diagrama de classes que utilizei para estrutar.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![Diagrama de classe][src/img/UMLIphone.png]
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
