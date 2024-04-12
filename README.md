@@ -6,5 +6,5 @@
 
 ## Diagrama de classes que utilizei para estrutar.
 
-![Diagrama de classe](src\img\UMLIphone.png)
+![Diagrama de classe](src/img/UMLIphone.png)
 
