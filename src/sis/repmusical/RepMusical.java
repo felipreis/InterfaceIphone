@@ -1,8 +1,10 @@
 package sis.repmusical;
 
 
-public class RepMusical {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
+public interface RepMusical {
+    
+    public void tocarMusica();
+    public void pausarMusica();
+    public void selecionarMusica();
+    
 }

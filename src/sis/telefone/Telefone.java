@@ -1,5 +1,10 @@
 package sis.telefone;
 
-public class Telefone {
+public interface Telefone {
+
+    public void ligar();
+    public void atender();
+    public void correioDeVoz();
+
     
 }
